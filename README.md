@@ -1,6 +1,15 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
+## Submission Information
+- **Name:** Conor Miller
+- **Course:** CSCI 232 Sec 01
+- **Due:** Information is not posted
+- **GitHub:** [view the rest of my GitHub here](https://github.com/cmiller105)
+- **Favorites:** Top 3 Kanye albums:
+  - #1 My Beautiful Dark Twisted Fantasy
+  - #2 Life of Pablo
+  - #3 Ye (Self Titled)
 ## Objectives
 - Learn how to fork a repository
 - Learn how to clone a repository
